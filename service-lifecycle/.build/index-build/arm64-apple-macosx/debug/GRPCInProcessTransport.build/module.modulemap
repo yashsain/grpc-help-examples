@@ -1,0 +1,4 @@
+module GRPCInProcessTransport {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCInProcessTransport.build/GRPCInProcessTransport-Swift.h"
+    requires objc
+}

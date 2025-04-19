@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/master.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCReflectionService/Generated/reflection.grpc.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.grpc.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.grpc.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.grpc~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.grpc.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCReflectionService/Generated/reflection.pb.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.pb.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.pb.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.pb~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/reflection.pb.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCReflectionService/Service/ReflectionService+V1.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService+V1.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService+V1.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService+V1~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService+V1.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCReflectionService/Service/ReflectionService.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionService.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCReflectionService/Service/ReflectionServiceRegistry.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionServiceRegistry.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionServiceRegistry.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionServiceRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/ReflectionServiceRegistry.swiftdeps"
+  }
+}

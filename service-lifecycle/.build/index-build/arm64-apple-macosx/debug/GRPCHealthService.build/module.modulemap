@@ -1,0 +1,4 @@
+module GRPCHealthService {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/GRPCHealthService-Swift.h"
+    requires objc
+}

@@ -1,0 +1,66 @@
+1c989b62b396b21aaa42c7aefb8fb531e343a03d	not-for-merge	branch 'fb-update-release-labels' of https://github.com/grpc/grpc-swift-protobuf
+c47ee1b7749aa505d5f14b5cc63eeec8c8e52254	not-for-merge	branch 'main' of https://github.com/grpc/grpc-swift-protobuf
+0494be617f038fcb8d08e4923863ed199fce855a	not-for-merge	branch 'package_plugins' of https://github.com/grpc/grpc-swift-protobuf
+440a117f2973fd8cb46247e64ca6ad790f1dd0b1	not-for-merge	'refs/pull/1/head' of https://github.com/grpc/grpc-swift-protobuf
+960a32c29715664f2fd6b5024024f1ac9b353b5d	not-for-merge	'refs/pull/10/head' of https://github.com/grpc/grpc-swift-protobuf
+526d608e91db3708cef8e6a3bbcd6c0fa69ede3d	not-for-merge	'refs/pull/11/head' of https://github.com/grpc/grpc-swift-protobuf
+8ab76b8bb2b0956fc27baec0d63fe18abbd23b3c	not-for-merge	'refs/pull/12/head' of https://github.com/grpc/grpc-swift-protobuf
+330f5002f02a1753e4acdd034d2d8fc49195e5bc	not-for-merge	'refs/pull/13/head' of https://github.com/grpc/grpc-swift-protobuf
+a6e0666fd372b6293a0b907ab730a3e229fe9743	not-for-merge	'refs/pull/14/head' of https://github.com/grpc/grpc-swift-protobuf
+7e188fca2f5978871ece2ea694998bbca552cc34	not-for-merge	'refs/pull/15/head' of https://github.com/grpc/grpc-swift-protobuf
+cdc5d85d7ef6b3a23bc591a6a1e7e2017f90066c	not-for-merge	'refs/pull/16/head' of https://github.com/grpc/grpc-swift-protobuf
+a99d3400b1882f583a6dd805634d6c22d15a063f	not-for-merge	'refs/pull/17/head' of https://github.com/grpc/grpc-swift-protobuf
+b6ff4ac9fbe344cac2cc6c356a753e1818b36e33	not-for-merge	'refs/pull/18/head' of https://github.com/grpc/grpc-swift-protobuf
+f4d2c5995ff082e3a40cccdd25dccd107ee9e847	not-for-merge	'refs/pull/19/head' of https://github.com/grpc/grpc-swift-protobuf
+567f8b3342b6f5ba6f38cf10c74943bf7164e86e	not-for-merge	'refs/pull/2/head' of https://github.com/grpc/grpc-swift-protobuf
+f99c998fcf5f92d52e3b6c83a92b80dd70ec305f	not-for-merge	'refs/pull/20/head' of https://github.com/grpc/grpc-swift-protobuf
+6691f2cc7539e6b578a440fe8205643f1b3e92e2	not-for-merge	'refs/pull/21/head' of https://github.com/grpc/grpc-swift-protobuf
+1f1b255d4d05eaecb2645c59738691e91e3ff981	not-for-merge	'refs/pull/22/head' of https://github.com/grpc/grpc-swift-protobuf
+4f6beaf342cf3032ebfb1e33d0c0966f7f2fffbb	not-for-merge	'refs/pull/23/head' of https://github.com/grpc/grpc-swift-protobuf
+69ba290a331f1384709e959a160da1c9f27c8393	not-for-merge	'refs/pull/24/head' of https://github.com/grpc/grpc-swift-protobuf
+270eca4f667e5e4639812496c816654da9ebf7c0	not-for-merge	'refs/pull/25/head' of https://github.com/grpc/grpc-swift-protobuf
+0494be617f038fcb8d08e4923863ed199fce855a	not-for-merge	'refs/pull/26/head' of https://github.com/grpc/grpc-swift-protobuf
+75b3e03a555c073ebabbe1307c985db43c7825f3	not-for-merge	'refs/pull/27/head' of https://github.com/grpc/grpc-swift-protobuf
+15fbb1ad08d34ca305680c0d7bc354820fc92007	not-for-merge	'refs/pull/28/head' of https://github.com/grpc/grpc-swift-protobuf
+76fcec46d25bd73832f8bbd849b1097b0d8dde6f	not-for-merge	'refs/pull/29/head' of https://github.com/grpc/grpc-swift-protobuf
+3be5051341fd581c643a0c95e5073d9043d1647e	not-for-merge	'refs/pull/3/head' of https://github.com/grpc/grpc-swift-protobuf
+10dee170734c1cc155e72888f40653f7feab9ee5	not-for-merge	'refs/pull/30/head' of https://github.com/grpc/grpc-swift-protobuf
+78620b0ac7594faa507e73b605a025b4a7b41e9f	not-for-merge	'refs/pull/31/head' of https://github.com/grpc/grpc-swift-protobuf
+f61be76de09aa966b07f300d821a58a26047b74e	not-for-merge	'refs/pull/32/head' of https://github.com/grpc/grpc-swift-protobuf
+36beb6a9a2ef3d3ce03b260c21760851febf7b5d	not-for-merge	'refs/pull/33/head' of https://github.com/grpc/grpc-swift-protobuf
+0dafcd3b8c02b4df14b54349eb6f3c0f2f6083fd	not-for-merge	'refs/pull/34/head' of https://github.com/grpc/grpc-swift-protobuf
+ff72257e68c3d902b7c7ee0416cab73be26a4f70	not-for-merge	'refs/pull/35/head' of https://github.com/grpc/grpc-swift-protobuf
+f7d6d4141429c30062459f733b56627e9caf974f	not-for-merge	'refs/pull/36/head' of https://github.com/grpc/grpc-swift-protobuf
+6418746d92a4ac0156990229fe1d8fdea6e57522	not-for-merge	'refs/pull/37/head' of https://github.com/grpc/grpc-swift-protobuf
+e1329ac2839617e9f5af23595f9b3d56727c1f4e	not-for-merge	'refs/pull/38/head' of https://github.com/grpc/grpc-swift-protobuf
+abce5eb1ca0de9aac595400ded3381e6c2a07719	not-for-merge	'refs/pull/39/head' of https://github.com/grpc/grpc-swift-protobuf
+f726ef1d768e65ad9c65c43c9c43146a9d947ba9	not-for-merge	'refs/pull/4/head' of https://github.com/grpc/grpc-swift-protobuf
+16d19d8577d3ba8d6cf17feb04777f949d08294c	not-for-merge	'refs/pull/40/head' of https://github.com/grpc/grpc-swift-protobuf
+40a2a53543e5f59ec0fac0173ae15e7decff4a82	not-for-merge	'refs/pull/42/head' of https://github.com/grpc/grpc-swift-protobuf
+dac6486440f1fcf0c28edd8b1738791da9f9c2d7	not-for-merge	'refs/pull/43/head' of https://github.com/grpc/grpc-swift-protobuf
+d15f76420315d664c8b2ec77ec2110169e8768b9	not-for-merge	'refs/pull/45/head' of https://github.com/grpc/grpc-swift-protobuf
+249739e5a5597047f95ac0d483431d95ba4c50aa	not-for-merge	'refs/pull/46/head' of https://github.com/grpc/grpc-swift-protobuf
+c80e97b92be37dd6ef467e086e488393b9fb6415	not-for-merge	'refs/pull/47/head' of https://github.com/grpc/grpc-swift-protobuf
+243e9011c537a5484c41c3770d194c71bc199689	not-for-merge	'refs/pull/48/head' of https://github.com/grpc/grpc-swift-protobuf
+96b6300e604909bbb6b913075351a4fb7b74a38d	not-for-merge	'refs/pull/49/head' of https://github.com/grpc/grpc-swift-protobuf
+0401e257cc3dbdb483061277f10ee09ca4e98c33	not-for-merge	'refs/pull/5/head' of https://github.com/grpc/grpc-swift-protobuf
+83b0697a1bc2934dac2d87f9c42b2dbfb1fbbfca	not-for-merge	'refs/pull/50/head' of https://github.com/grpc/grpc-swift-protobuf
+563fc12d28358ffae2e9c9976f46c4ecfb533b8b	not-for-merge	'refs/pull/51/head' of https://github.com/grpc/grpc-swift-protobuf
+b07fb557a1f26f1c821d0b2ca4fbe88362f78fdf	not-for-merge	'refs/pull/52/head' of https://github.com/grpc/grpc-swift-protobuf
+613d07fdc5e6a83c7544c31e6349fa4829d58800	not-for-merge	'refs/pull/53/head' of https://github.com/grpc/grpc-swift-protobuf
+73968f07a6395ee6caec750acbab8f9c0765feb8	not-for-merge	'refs/pull/55/head' of https://github.com/grpc/grpc-swift-protobuf
+f53628f3e25ce75ebd686bb5368cef063057aa69	not-for-merge	'refs/pull/56/head' of https://github.com/grpc/grpc-swift-protobuf
+bc986a6467c6c4b685bbf35e4e264f9c36d199b5	not-for-merge	'refs/pull/58/head' of https://github.com/grpc/grpc-swift-protobuf
+6bf1a43fd82b527297ff7b0cb59bdfc65dc68b77	not-for-merge	'refs/pull/59/head' of https://github.com/grpc/grpc-swift-protobuf
+b4afbc164cc8ed1cabbd51c1227a5ab46e4b55f9	not-for-merge	'refs/pull/6/head' of https://github.com/grpc/grpc-swift-protobuf
+37702fd2267445e80d99ac68893b10664198f22e	not-for-merge	'refs/pull/7/head' of https://github.com/grpc/grpc-swift-protobuf
+c0438d16be9412ac2971536a63667195af3b2dac	not-for-merge	'refs/pull/8/head' of https://github.com/grpc/grpc-swift-protobuf
+342e1dc5c17ae0e806fc59b640685354d4da43fc	not-for-merge	'refs/pull/9/head' of https://github.com/grpc/grpc-swift-protobuf
+bdbc8320f1fd14775062b47f41c262e6d2723296	not-for-merge	tag '1.0.0' of https://github.com/grpc/grpc-swift-protobuf
+424a4d8bd6f0c97500517b827a9d0e2c6a1df924	not-for-merge	tag '1.0.0-alpha.1' of https://github.com/grpc/grpc-swift-protobuf
+a2834ea6305d7e44ba762d593e7ea1078b457095	not-for-merge	tag '1.0.0-beta.1' of https://github.com/grpc/grpc-swift-protobuf
+3ed26dad8d43d7a11f0c6784a93db900e3cd4281	not-for-merge	tag '1.0.0-beta.2' of https://github.com/grpc/grpc-swift-protobuf
+390183ccaa933960a87c6b7c7e6f3238479af366	not-for-merge	tag '1.0.0-beta.3' of https://github.com/grpc/grpc-swift-protobuf
+4bb3bea121aada4324eefb2b957d2316d20e61f8	not-for-merge	tag '1.0.0-rc.1' of https://github.com/grpc/grpc-swift-protobuf
+63982ca29f11d2c6a7e559c1899fee812dd55cd9	not-for-merge	tag '1.1.0' of https://github.com/grpc/grpc-swift-protobuf
+5edbc18f5198887e8b2e64bddb60f4fe57acaaf4	not-for-merge	tag '1.2.0' of https://github.com/grpc/grpc-swift-protobuf

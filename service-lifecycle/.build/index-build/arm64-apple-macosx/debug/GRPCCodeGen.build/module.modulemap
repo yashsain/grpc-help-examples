@@ -1,0 +1,4 @@
+module GRPCCodeGen {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCodeGen.build/GRPCCodeGen-Swift.h"
+    requires objc
+}

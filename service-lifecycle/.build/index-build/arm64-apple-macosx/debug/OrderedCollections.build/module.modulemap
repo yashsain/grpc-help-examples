@@ -1,0 +1,4 @@
+module OrderedCollections {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/OrderedCollections.build/OrderedCollections-Swift.h"
+    requires objc
+}

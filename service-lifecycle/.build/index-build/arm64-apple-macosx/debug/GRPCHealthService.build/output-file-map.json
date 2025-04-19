@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/master.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCHealthService/Generated/health.grpc.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.grpc.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.grpc.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.grpc~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.grpc.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCHealthService/Generated/health.pb.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.pb.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.pb.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.pb~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/health.pb.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCHealthService/HealthService+Service.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService+Service.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService+Service.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService+Service~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService+Service.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCHealthService/HealthService.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/HealthService.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCHealthService/ServingStatus.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/ServingStatus.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/ServingStatus.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/ServingStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCHealthService.build/ServingStatus.swiftdeps"
+  }
+}

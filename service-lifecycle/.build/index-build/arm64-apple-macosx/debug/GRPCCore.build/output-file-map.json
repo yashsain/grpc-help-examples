@@ -1,0 +1,371 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/master.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/CallOptions.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CallOptions.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CallOptions.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CallOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CallOptions.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/ClientContext.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientContext.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientContext.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientContext.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/ClientInterceptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientInterceptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientInterceptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientInterceptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/ClientRequest.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/ClientResponse.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientRPCExecutor+HedgingExecutor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+HedgingExecutor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+HedgingExecutor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+HedgingExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+HedgingExecutor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientRPCExecutor+OneShotExecutor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+OneShotExecutor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+OneShotExecutor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+OneShotExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+OneShotExecutor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientRPCExecutor+RetryExecutor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+RetryExecutor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+RetryExecutor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+RetryExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor+RetryExecutor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientRPCExecutor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRPCExecutor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientRequest+Convenience.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest+Convenience.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest+Convenience.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest+Convenience~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientRequest+Convenience.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientResponse+Convenience.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse+Convenience.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse+Convenience.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse+Convenience~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientResponse+Convenience.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/ClientStreamExecutor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientStreamExecutor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientStreamExecutor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientStreamExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientStreamExecutor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Client/Internal/RetryDelaySequence.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryDelaySequence.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryDelaySequence.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryDelaySequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryDelaySequence.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/ConditionalInterceptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ConditionalInterceptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ConditionalInterceptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ConditionalInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ConditionalInterceptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/Internal/ServerCancellationManager.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerCancellationManager.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerCancellationManager.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerCancellationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerCancellationManager.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/Internal/ServerRPCExecutor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRPCExecutor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRPCExecutor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRPCExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRPCExecutor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/RPCRouter.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCRouter.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCRouter.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCRouter.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/RegistrableRPCService.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RegistrableRPCService.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RegistrableRPCService.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RegistrableRPCService~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RegistrableRPCService.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/ServerContext+RPCCancellationHandle.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext+RPCCancellationHandle.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext+RPCCancellationHandle.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext+RPCCancellationHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext+RPCCancellationHandle.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/ServerContext.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerContext.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/ServerInterceptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerInterceptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerInterceptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerInterceptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/ServerRequest.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRequest.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRequest.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerRequest.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Call/Server/ServerResponse.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerResponse.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerResponse.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerResponse.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Coding/Coding.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Coding.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Coding.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Coding~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Coding.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Coding/CompressionAlgorithm.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CompressionAlgorithm.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CompressionAlgorithm.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CompressionAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/CompressionAlgorithm.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Coding/GRPCContiguousBytes.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCContiguousBytes.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCContiguousBytes.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCContiguousBytes~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCContiguousBytes.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Configuration/MethodConfig.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfig.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfig.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfig.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Configuration/ServiceConfig.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceConfig.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceConfig.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceConfig.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/GRPCClient.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCClient.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCClient.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCClient.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/GRPCServer.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCServer.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCServer.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCServer.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/Base64.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Base64.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Base64.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Base64~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Base64.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/Concurrency Primitives/UnsafeTransfer.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UnsafeTransfer.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UnsafeTransfer.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UnsafeTransfer~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UnsafeTransfer.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/Metadata+GRPC.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata+GRPC.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata+GRPC.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata+GRPC~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata+GRPC.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/MethodConfigs.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfigs.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfigs.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfigs~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodConfigs.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/Result+Catching.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Result+Catching.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Result+Catching.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Result+Catching~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Result+Catching.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/String+Extensions.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/String+Extensions.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/String+Extensions.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/String+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/String+Extensions.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Internal/TaskGroup+CancellableTask.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/TaskGroup+CancellableTask.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/TaskGroup+CancellableTask.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/TaskGroup+CancellableTask~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/TaskGroup+CancellableTask.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Metadata.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Metadata.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/MethodDescriptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodDescriptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodDescriptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodDescriptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/MethodDescriptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/RPCError.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCError.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCError.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCError~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCError.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/RuntimeError.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RuntimeError.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RuntimeError.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RuntimeError~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RuntimeError.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/ServiceDescriptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceDescriptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceDescriptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceDescriptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServiceDescriptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Status.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Status.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Status.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Status~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Status.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/AsyncSequenceOfOne.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/AsyncSequenceOfOne.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/AsyncSequenceOfOne.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/AsyncSequenceOfOne~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/AsyncSequenceOfOne.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/BroadcastAsyncSequence+RPCWriter.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence+RPCWriter.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence+RPCWriter.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence+RPCWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence+RPCWriter.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/BroadcastAsyncSequence.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/BroadcastAsyncSequence.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/GRPCAsyncThrowingStream.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCAsyncThrowingStream.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCAsyncThrowingStream.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCAsyncThrowingStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/GRPCAsyncThrowingStream.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/RPCWriter+Map.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Map.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Map.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Map~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Map.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/RPCWriter+MessageToRPCResponsePart.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+MessageToRPCResponsePart.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+MessageToRPCResponsePart.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+MessageToRPCResponsePart~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+MessageToRPCResponsePart.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/RPCWriter+Serialize.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Serialize.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Serialize.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Serialize~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Serialize.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/Internal/UncheckedAsyncIteratorSequence.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UncheckedAsyncIteratorSequence.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UncheckedAsyncIteratorSequence.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UncheckedAsyncIteratorSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/UncheckedAsyncIteratorSequence.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/RPCAsyncSequence.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCAsyncSequence.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCAsyncSequence.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCAsyncSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCAsyncSequence.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/RPCWriter+Closable.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Closable.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Closable.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Closable~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter+Closable.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/RPCWriter.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriter.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Streaming/RPCWriterProtocol.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriterProtocol.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriterProtocol.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriterProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCWriterProtocol.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Timeout.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Timeout.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Timeout.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Timeout~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/Timeout.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Transport/ClientTransport.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientTransport.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientTransport.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ClientTransport.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Transport/RPCParts.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCParts.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCParts.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCParts~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCParts.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Transport/RPCStream.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCStream.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCStream.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RPCStream.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Transport/RetryThrottle.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryThrottle.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryThrottle.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryThrottle~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/RetryThrottle.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift/Sources/GRPCCore/Transport/ServerTransport.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerTransport.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerTransport.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerTransport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCCore.build/ServerTransport.swiftdeps"
+  }
+}

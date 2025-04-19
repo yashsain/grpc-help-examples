@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/master.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCOTelTracingInterceptors/HookedAsyncSequence.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedAsyncSequence.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedAsyncSequence.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedAsyncSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedAsyncSequence.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCOTelTracingInterceptors/HookedWriter.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedWriter.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedWriter.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/HookedWriter.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCOTelTracingInterceptors/Tracing/ClientOTelTracingInterceptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ClientOTelTracingInterceptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ClientOTelTracingInterceptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ClientOTelTracingInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ClientOTelTracingInterceptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCOTelTracingInterceptors/Tracing/ServerOTelTracingInterceptor.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ServerOTelTracingInterceptor.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ServerOTelTracingInterceptor.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ServerOTelTracingInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/ServerOTelTracingInterceptor.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-extras/Sources/GRPCOTelTracingInterceptors/Tracing/SpanAttributes+GRPCTracingKeys.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/SpanAttributes+GRPCTracingKeys.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/SpanAttributes+GRPCTracingKeys.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/SpanAttributes+GRPCTracingKeys~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCOTelTracingInterceptors.build/SpanAttributes+GRPCTracingKeys.swiftdeps"
+  }
+}

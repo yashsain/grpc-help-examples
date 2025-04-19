@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/master.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-protobuf/Sources/GRPCProtobufCodeGen/CamelCaser.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/CamelCaser.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/CamelCaser.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/CamelCaser~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/CamelCaser.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-protobuf/Sources/GRPCProtobufCodeGen/ProtobufCodeGenParser.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenParser.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenParser.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenParser.swiftdeps"
+  },
+  "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/checkouts/grpc-swift-protobuf/Sources/GRPCProtobufCodeGen/ProtobufCodeGenerator.swift": {
+    "dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenerator.d",
+    "object": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenerator.swift.o",
+    "swiftmodule": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/ProtobufCodeGenerator.swiftdeps"
+  }
+}

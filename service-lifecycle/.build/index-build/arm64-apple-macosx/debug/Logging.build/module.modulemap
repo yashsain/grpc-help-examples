@@ -1,0 +1,4 @@
+module Logging {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/Logging.build/Logging-Swift.h"
+    requires objc
+}

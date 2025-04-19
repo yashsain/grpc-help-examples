@@ -1,0 +1,4 @@
+module GRPCReflectionService {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCReflectionService.build/GRPCReflectionService-Swift.h"
+    requires objc
+}

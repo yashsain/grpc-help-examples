@@ -1,0 +1,4 @@
+module HashTreeCollections {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/HashTreeCollections.build/HashTreeCollections-Swift.h"
+    requires objc
+}

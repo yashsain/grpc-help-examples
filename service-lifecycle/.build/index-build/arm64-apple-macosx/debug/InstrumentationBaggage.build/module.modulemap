@@ -1,0 +1,4 @@
+module InstrumentationBaggage {
+    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/InstrumentationBaggage.build/InstrumentationBaggage-Swift.h"
+    requires objc
+}
