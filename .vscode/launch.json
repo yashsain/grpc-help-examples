@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl",
+            "name": "Debug NIOTLSServer (grpc new version helpful files/swift-nio-ssl)",
+            "program": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl/.build/debug/NIOTLSServer",
+            "preLaunchTask": "swift: Build Debug NIOTLSServer (grpc new version helpful files/swift-nio-ssl)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl",
+            "name": "Release NIOTLSServer (grpc new version helpful files/swift-nio-ssl)",
+            "program": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl/.build/release/NIOTLSServer",
+            "preLaunchTask": "swift: Build Release NIOTLSServer (grpc new version helpful files/swift-nio-ssl)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl",
+            "name": "Debug NIOSSLHTTP1Client (grpc new version helpful files/swift-nio-ssl)",
+            "program": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl/.build/debug/NIOSSLHTTP1Client",
+            "preLaunchTask": "swift: Build Debug NIOSSLHTTP1Client (grpc new version helpful files/swift-nio-ssl)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl",
+            "name": "Release NIOSSLHTTP1Client (grpc new version helpful files/swift-nio-ssl)",
+            "program": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl/.build/release/NIOSSLHTTP1Client",
+            "preLaunchTask": "swift: Build Release NIOSSLHTTP1Client (grpc new version helpful files/swift-nio-ssl)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl",
+            "name": "Debug NIOSSLPerformanceTester (grpc new version helpful files/swift-nio-ssl)",
+            "program": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl/.build/debug/NIOSSLPerformanceTester",
+            "preLaunchTask": "swift: Build Debug NIOSSLPerformanceTester (grpc new version helpful files/swift-nio-ssl)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl",
+            "name": "Release NIOSSLPerformanceTester (grpc new version helpful files/swift-nio-ssl)",
+            "program": "${workspaceFolder:grpc-help-examples}/grpc new version helpful files/swift-nio-ssl/.build/release/NIOSSLPerformanceTester",
+            "preLaunchTask": "swift: Build Release NIOSSLPerformanceTester (grpc new version helpful files/swift-nio-ssl)"
+        }
+    ]
+}

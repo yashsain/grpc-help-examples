@@ -1,4 +1,0 @@
-module Collections {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/Collections.build/Collections-Swift.h"
-    requires objc
-}

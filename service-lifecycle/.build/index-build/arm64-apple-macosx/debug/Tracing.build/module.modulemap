@@ -1,4 +1,0 @@
-module Tracing {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/Tracing.build/Tracing-Swift.h"
-    requires objc
-}

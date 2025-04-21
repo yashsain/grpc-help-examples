@@ -1,4 +1,0 @@
-module AsyncAlgorithms {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/AsyncAlgorithms.build/AsyncAlgorithms-Swift.h"
-    requires objc
-}

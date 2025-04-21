@@ -1,4 +1,0 @@
-module Instrumentation {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/Instrumentation.build/Instrumentation-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module ServiceLifecycle {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/ServiceLifecycle.build/ServiceLifecycle-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module UnixSignals {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/UnixSignals.build/UnixSignals-Swift.h"
-    requires objc
-}

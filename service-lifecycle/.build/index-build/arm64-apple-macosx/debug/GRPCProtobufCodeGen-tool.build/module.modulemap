@@ -1,4 +1,0 @@
-module GRPCProtobufCodeGen {
-    header "/Users/yashsain/grpc-help-examples/service-lifecycle/.build/index-build/arm64-apple-macosx/debug/GRPCProtobufCodeGen-tool.build/GRPCProtobufCodeGen-Swift.h"
-    requires objc
-}
